@@ -3,7 +3,7 @@
 I'm an Accounting Science student with a passion for programming. 
 Currently learning the React, React Native and Node.js stack at [Rocketseat](https://rocketseat.com.br/).
 
-### 🧠 I have experience in:
+### 🧠 I have experience with:
 
 ![css3](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/css3.svg) ![html5](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/html5.svg) ![javascript](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/javascript.svg) ![react](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/reactjs.svg) ![nodeJS](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/node.svg) 
 
