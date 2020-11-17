@@ -1,7 +1,7 @@
 # 👋Hi!
 
 I'm an Accounting Science student with a passion for programming. 
-Currently learning the React, React Native and Node.js stack at [Rocketseat](https://rocketseat.com.br/)
+Currently learning the React, React Native and Node.js stack at [Rocketseat](https://rocketseat.com.br/).
 
 ### 🧠 I have experience in:
 
