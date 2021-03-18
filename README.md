@@ -13,9 +13,3 @@ Currently learning the React, React Native and Node.js stack at [Rocketseat](htt
 ### 💡 I'm interested in:
 
 ![aws](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/aws.svg) ![docker](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/docker.svg) ![elixir](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/elixir.svg) ![mongodb](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/mongodb.svg) ![nextJS](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/nextjs.svg) 
-
-### 🚩 Goals for 2020
-
--   Finish the GoStack bootcamp at [Rocketseat](https://rocketseat.com.br/).
--   Improve my React, React Native and Typescript knowledge.
--   Refactor my Github and start being more active on [Linkedin](https://www.linkedin.com/in/gabriel-kuhn-a57425188/).
