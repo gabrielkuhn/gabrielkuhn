@@ -5,7 +5,6 @@ I'm an ex accounting science student who fell in love with programming and switc
 ## 👨🏻‍💻 About me
 
 <img alt="dev" align="right" width="200em" height="200em" src="assets/developer.gif" />
-<br />
 
 - 🌎 I'm from Brazil.
 - 🧠 What drives me forward is learning new stuff and building awesome things with it, doesn't matter the technology stack.
@@ -37,6 +36,6 @@ I'm an ex accounting science student who fell in love with programming and switc
 
 <div align="left">
   <a href="https://github.com/gabrielkuhn">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielkuhn&show_icons=true&theme=dracula&hide=stars&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkuhn&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielkuhn&show_icons=true&theme=dracula&hide=stars&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkuhn&layout=compact&langs_count=6&theme=dracula"/>
 </div>
