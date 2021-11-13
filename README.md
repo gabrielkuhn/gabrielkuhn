@@ -1,15 +1,42 @@
 # 👋Hi!
 
-I'm an Accounting Science student with a passion for programming. 
-Currently learning the React, React Native and Node.js stack at [Rocketseat](https://rocketseat.com.br/).
+I'm an ex accounting science student who fell in love with programming and switched careers.
 
-### 🧠 I have experience with:
+## 👨🏻‍💻 About me
 
-![css3](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/css3.svg) ![html5](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/html5.svg) ![javascript](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/javascript.svg) ![react](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/reactjs.svg) ![nodeJS](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/node.svg) 
+<img alt="dev" align="right" width="200em" height="200em" src="assets/developer.gif" />
+<br />
 
-### 📖 I'm studying:
-![typescript](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/typescript.svg) ![react-native](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/react-native.svg) ![electron](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/electron.svg) ![mysql](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/mysql.svg) 
+- 🌎 I'm from Brazil.
+- 🧠 What drives me forward is learning new stuff and building awesome things with it, doesn't matter the technology stack.
+- ✨ I'm a fast learner and I'm constantly seeking knowledge. My learning is based on creating projects and helping other people.
+- 💻 Currently working at [CWI Software](https://cwi.com.br) as a backend developer.
+- 🖌️ Despite focusing more on backend stuff, I love the frontend ecosystem and play with it every now and then.
+- ☕ A real coffee addict.
 
-### 💡 I'm interested in:
+<br />
+<br />
 
-![aws](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/aws.svg) ![docker](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/docker.svg) ![elixir](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/elixir.svg) ![mongodb](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/mongodb.svg) ![nextJS](https://raw.githubusercontent.com/gabrielkuhn/gabrielkuhn/e76756a0dc18614c2d753604fa9b08787b9a41ae/assets/nextjs.svg) 
+## 💡 Tech stack
+<div>
+  <img alt="Typescript" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img alt="Javascript" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="Spring" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Java" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="React" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Docker" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Node.js" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Next.js" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img alt="Electron" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+  <img alt="MongoDB" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+</div>
+
+<br />
+
+## 📊 Github stats
+
+<div align="left">
+  <a href="https://github.com/gabrielkuhn">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielkuhn&show_icons=true&theme=dracula&hide=stars&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkuhn&layout=compact&langs_count=6&theme=dracula"/>
+</div>
